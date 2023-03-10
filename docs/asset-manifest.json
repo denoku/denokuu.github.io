@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/denoku/dotnet-webapp-code-challenge/static/css/main.c7bc5ae7.css",
+    "main.js": "/denoku/dotnet-webapp-code-challenge/static/js/main.f3e6dc5f.js",
+    "static/js/496.4ba9c4f2.chunk.js": "/denoku/dotnet-webapp-code-challenge/static/js/496.4ba9c4f2.chunk.js",
+    "service-worker.js": "/denoku/dotnet-webapp-code-challenge/service-worker.js",
+    "index.html": "/denoku/dotnet-webapp-code-challenge/index.html",
+    "main.c7bc5ae7.css.map": "/denoku/dotnet-webapp-code-challenge/static/css/main.c7bc5ae7.css.map",
+    "main.f3e6dc5f.js.map": "/denoku/dotnet-webapp-code-challenge/static/js/main.f3e6dc5f.js.map",
+    "496.4ba9c4f2.chunk.js.map": "/denoku/dotnet-webapp-code-challenge/static/js/496.4ba9c4f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7bc5ae7.css",
+    "static/js/main.f3e6dc5f.js"
+  ]
+}
